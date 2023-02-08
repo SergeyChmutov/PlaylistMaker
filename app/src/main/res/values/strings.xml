@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">PlaylistMaker</string>
+    <string name="app_name">Playlist Maker</string>
+
+    <string name="main_activity_panel_header_title">Playlist maker</string>
+    <string name="main_activity_button_search_text">Поиск</string>
+    <string name="main_activity_button_media_text">Мультимедия</string>
+    <string name="main_activity_button_settings_text">Настройки</string>
+
+    <string name="settings_activity_title">Настройки</string>
+    <string name="settings_activity_back_button">В главное меню</string>
+    <string name="settings_activity_switch">Тёмная тема</string>
+    <string name="settings_activity_share">Поделиться приложением</string>
+    <string name="settings_activity_support">Написать в поддержку</string>
+    <string name="settings_activity_license">Пользовательское соглашение</string>
+
+    <string name="multimedia_activity_message">Мультимедия</string>
+
+    <string name="search_activity_message">Поиск</string>
 </resources>
